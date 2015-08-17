@@ -10,4 +10,4 @@
 
 ##用法
 
-前往[https://greasyfork.org/zh-CN/scripts/11803-renren-xu1s](https://greasyfork.org/zh-CN/scripts/11803-renren-xu1s)进行安装
+前往[https://greasyfork.org/zh-CN/scripts/11803-renren-xu1s](https://greasyfork.org/zh-CN/scripts/11803-renren-xu1s)进行安装，遇到看不了的图请点`看不了？`=>`续一秒！`
