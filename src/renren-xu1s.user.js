@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name  Renren续一秒
+// @name  Renren Xu1s
 // @namespace https://malash.me/
 // @author  Malash <i@malash.me>
 // @icon  http://a.xnimg.cn/favicon.ico
 // @version 1.0.0
-// @description Renren续一秒——被屏蔽内容查看器
+// @description Renren续一秒——人人被屏蔽内容查看器
 // @homepageURL https://github.com/malash/renren-xu1s
 // @include http://www.renren.com/*
 // @grant none
